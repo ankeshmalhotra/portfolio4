@@ -462,7 +462,7 @@ div.box .input_text {
 /* Styles for devices with a maximum width of 600 pixels (e.g., smartphones) */
 @media only screen and (max-width: 600px) {
     body {
-        width: 15%;
+        width: 5%;
     }
 
     .top_image {
@@ -572,7 +572,7 @@ div.box .input_text {
     #footer {
         display: inline-block;
         height: 390px;
-        width: 1050%;
+        width: 1950%;
         background-color: rgb(53, 51, 51);
     }
 
