@@ -462,7 +462,7 @@ div.box .input_text {
 /* Styles for devices with a maximum width of 600 pixels (e.g., smartphones) */
 @media only screen and (max-width: 600px) {
     body {
-        width: 10%;
+        width: 15%;
     }
 
     .top_image {
@@ -537,7 +537,7 @@ div.box .input_text {
         display: inline;
         float: right;
         margin-top: 20px;
-        margin-right: 20px;
+        margin-right: 150px;
       
 
     }
